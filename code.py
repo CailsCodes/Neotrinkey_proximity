@@ -1,4 +1,3 @@
-# Circuitpython script for the Adafruit Proximity Trinkey
 
 from time import sleep
 
